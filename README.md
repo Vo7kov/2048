@@ -1,3 +1,6 @@
+# DEMO
+https://vo7kov.github.io/2048/
+
 # Simple gulp template (requires node v. 14.18.0)
 Its a simple gulp-template with:
 * **.scss** 
